@@ -1,0 +1,13 @@
+.person {
+	margin: 5px;
+	position: relative;
+	text-align: center;
+	width: 80px;
+	height: 80px;
+	border: 1px solid black;
+}
+.personname {
+	display: block;
+	position: absolute;
+	top: 25%;
+}
