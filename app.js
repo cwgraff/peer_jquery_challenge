@@ -1,6 +1,5 @@
 var people = ['charlie', 'chris', 'jeremy', 'natalie', 'scott', 'kenzie', 'eric'];
 var namesCount = 0;
-var fadeToggle = 0;
 
 $(function(){
 	$('#container').on('click', '.remove', function(){
