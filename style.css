@@ -8,6 +8,8 @@
 	border-radius: 12px;
 	font-weight: bold;
 	background-color: #ddd;
+	display: block;
+	float: left;
 }
 .personname {
 	position: relative;
