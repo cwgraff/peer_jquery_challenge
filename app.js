@@ -1,4 +1,5 @@
-var people = ['charlie', 'chris', 'jeremy', 'natalie', 'scott', 'kenzie', 'eric'];
+var people = ['Charlie', 'Chris', 'Jeremy', 'Natalie', 'Scott', 'Kenzie', 'Eric', 'Brooks', 'Liz', 'Nathan',
+				'Anthony', 'Sam', 'Matthew', 'Zach', 'Brooks', 'Amber', 'Joe', 'Altamir', 'Mark', 'Robby'];
 var namesCount = 0;
 
 $(function(){
